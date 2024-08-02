@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Scrapely",
   description: "Web scraping which also tracks products prices effortlessly and save money on your online shopping.",
   icons: {
-    icon: '/assets/images/weblogo.png'
+    icon: '/assets/icons/logo.svg'
   }
 };
 
