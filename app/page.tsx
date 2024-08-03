@@ -1,3 +1,4 @@
+import Searchbar from '@/components/Searchbar'
 import Image from 'next/image'
 import React from 'react'
 
@@ -18,13 +19,13 @@ const Home = () => {
           </p>
           <h1 className="head-text">
             Unleash the Power of
-            <span className="text-primary">ScraPely</span>
+            <span className="text-primary"> ScraPely</span>
           </h1>
           <p className="mt-6">
           Powerful, self-serve analytics designed to boost product growth. 
           Effortlessly convert, engage, and retain more.
           </p>
-          Searchbar
+          <Searchbar />
         </div>
 
         HeroCarousel

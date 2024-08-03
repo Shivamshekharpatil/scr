@@ -21,7 +21,7 @@ const Navbar = () => {
         />
 
         <p className="nav-logo">
-            Scra<span className="text-primary">Paely</span>
+            Scra<span className="text-primary">Pely</span>
         </p>
         </Link>
 
